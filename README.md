@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋 I'm Shreyas Rai
 
-<!--
-**Raishreyas/Raishreyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌐 Web Developer
+- 🎓 Computer Science Graduate
+- 💻 Passionate about coding and web development
+- 🚀 Always eager to learn and explore new technologies
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, PHP, JavaScript
+- Responsive Web Design
+- Creating engaging user experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🍔 Food Ordering Website: Fully functional and responsive.
+- ✨ Landing Pages: Eye-catching designs to capture attention.
+
+## Goals
+- 🌱 Seeking practical experience and industry insights.
+- 📚 Dedicated to continuous learning and growth.
+- 💡 Passionate about innovation and creative problem-solving.
+
+## Let's Connect!
+- 📫 You can reach me at [your@email.com](mailto:your@email.com)
+-
