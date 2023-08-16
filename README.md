@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [My Skills](#)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning MERN and GSAP  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to basic Web Development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -83,7 +83,9 @@
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=6ik0n1em6omv0p1trvd5xr3qt&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6ik0n1em6omv0p1trvd5xr3qt&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true) /></div>  
+
+## Spotify Listening  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=6ik0n1em6omv0p1trvd5xr3qt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
@@ -91,7 +93,8 @@
 <img src="https://komarev.com/ghpvc/?username=raishreyas&&style=flat-square" align="center" />
 </div>  
 
-<br/>
+<br />
 
+----
 <em>Feel free to reach out:</em>
 - 📫 [Gmail](mailto:shreyashrai2004e@gmail.com)
