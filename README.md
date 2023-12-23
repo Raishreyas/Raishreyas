@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shreyas, passionate web developer exploring the realms of code, creativity, and continuous learning. 🌐💻</div>  
   
 
-- 🔭 I’m currently working on [My Skills](#)  
+- 🔭 I’m currently working on My Skills  
   
 
 - 🌱 I’m currently learning MERN and GSAP  
